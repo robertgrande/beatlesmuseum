@@ -1,0 +1,41 @@
+@media screen and (max-width: 1200px){
+	.card_one{
+		margin: 0 auto;
+	}
+	.card_two{
+		display: none;
+	}
+	.card_three{
+		display: none;
+	}
+	.card_four{
+		margin: 0 auto;
+	}
+	.bottom_text_two{
+		transform: scale(0.6);
+		padding-top: 90%;
+	}
+	.img_instagram{
+		width: 15rem;
+	}
+	.img_youtube{
+		width: 15rem
+	}
+	.img_facebook{
+		width: 15rem;
+	}
+	.title_text_one{
+		transform: scale(0.8);
+	}
+}
+@media screen and (min-width: 1200px) and (max-width: 1400px){
+	.img_instagram{
+		width: 20rem;
+	}
+	.img_youtube{
+		width: 20rem
+	}
+	.img_facebook{
+		width: 20rem;
+	}
+}
